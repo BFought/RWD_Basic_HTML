@@ -1,0 +1,53 @@
+.container{
+  height: 500px;
+  overflow:auto;
+}
+.jumbotron{
+  background-image: url('./images/skyscraper.png');
+}
+h1{
+  text-align: center;
+}
+#about{
+  height: auto;
+  background-color: #78C2AD;
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+#engage{
+  background-image: url('./images/publicspeaking.jpeg');
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  height: auto;
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+#lessons{
+  height: auto;
+  margin: auto;
+  padding: 10px;
+}
+h2{
+  text-align: center;
+}
+#contact{
+  height: auto;
+  background-color: #78C2AD;
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+.row{
+  text-align: center;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+}
+.mb-3{
+  margin-left: 20px;
+}
